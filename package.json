@@ -1,0 +1,22 @@
+{
+  "name": "ontouml-example-models",
+  "version": "0.0.1",
+  "description": "OntoUML example models for development tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OntoUML/ontouml-example-models.git"
+  },
+  "keywords": [
+    "ontouml"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OntoUML/ontouml-example-models/issues"
+  },
+  "homepage": "https://github.com/OntoUML/ontouml-example-models#readme"
+}
